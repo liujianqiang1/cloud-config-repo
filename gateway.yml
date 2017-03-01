@@ -1,4 +1,0 @@
-zuul: 
-  routes: 
-  service: /service/**
-  #user: /user/**
